@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  google-auth:
+    build: .
+    container_name: google-auth
